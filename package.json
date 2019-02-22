@@ -1,0 +1,15 @@
+{
+  "name": "remote-days",
+  "version": "1.0.0",
+  "description": "Calculate Days you were remote based on Google Location History",
+  "main": "index.js",
+  "author": "David Roberts",
+  "license": "MIT",
+  "dependencies": {
+    "csv-writer": "^1.0.0",
+    "geolib": "^2.0.24",
+    "lodash": "^4.17.10",
+    "moment": "^2.22.2",
+    "stream-json": "^1.1.1"
+  }
+}
